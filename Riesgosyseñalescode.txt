@@ -1,0 +1,48 @@
+<HTML>
+<TITLE>La importancia de la salud mental</TITLE>
+<H1>La importancia de la salud mental</H1>
+</HEAD>
+<BODY BGCOLOR="LIGHTGRAY" TEXT="BLACK">
+<P ALIGN="CENTER">
+<HR COLOR="BLACK">
+<P><A NAME=Riesgos y señales de una buena o mala salud mental></P>
+<H2>Riesgos y señales de una buena o mala salud mental</H2>
+<HR>
+<P><IMG SRC="https://www.psicologiamenssana.com/wp-content/uploads/2023/01/Psicolog%C3%ADa-Cartagena-Las-consecuencias-de-una-mala-salud-mental-a-nivel-f%C3%ADsico-770x360.jpg" WIDTH=50% HEIGHT=50% ALIGN=CENTER></P>
+<P><H3>RIESGOS DE UNA MALA SALUD MENTAL</P></H3>
+<P>Los riesgos para la salud mental son numerosos y pueden incluir factores biológicos, 
+ambientales, sociales, y de estilo de vida. Algunos riesgos comunes son la violencia, 
+la pobreza, la discriminación, la falta de apoyo social, las enfermedades crónicas, 
+el estrés, el consumo de sustancias y la falta de acceso a servicios de salud mental.</P>
+<P>Es importante tener en cuenta que estos factores de riesgo pueden interactuar entre 
+sí, creando un efecto amplificado en la salud mental. Además, no todas las personas 
+expuestas a estos factores de riesgo desarrollarán un trastorno mental. Sin embargo, 
+es importante estar conscientes de estos factores y buscar ayuda profesional si se 
+experimentan dificultades de salud mental.</P>
+<P><H3>SEÑALES DE UNA MALA SALUD MENTAL</H3></P>
+<P>Nosotros tambien podemos notar en nosotros mismos y observar en los demas si tenemos una mala salud mental
+pues hay factores los cuales nos pueden indicar este fenomeno, los cuales son:</P>
+<UL TYPE=disc>
+<LI><P>Cambios drasticos en el comportamiento</P>
+<LI><P>Aislamiento</P>
+<LI></P>Irritabilidad extrema</P>
+<LI></P>Pensamientos negativos recurrentes</P>
+</UL>
+<P><IMG SRC"https://b2995878.smushcdn.com/2995878/wp-content/uploads/2020/05/Salud-mental-durante-COVID-19-scaled.jpg?lossy=2&strip=0&webp=1"WIDTH=30% HEIGHT=30%></P>
+<HR> 
+<P><H3>RIESGOS DE UNA BUENA SALUD MENTAL</P></H3>
+<P><FONT SIZE=4>Realmente no existe ningun riesgo de una buena salud mental, pues
+como su nombre lo dice ya tendriamos una buena salud mental, a lo cual
+hace que no tengamos ningun pensamiento negativo, no nos irritemos tan facilmente entre otras varias cosas
+pero sobre todo nos ayuda a poder tene una gran calidad de vida</P></FONT>
+<P><H3>SEÑALES DE UNA BUENA SALUD MENTAL<P></H3>
+<P>Como mencionamos anteriormente, tambien podemos notar en nosotros mismos y observar en los demas
+diversas señales que demuestran que tienen una buena salud mental, las cuales son:</P>
+<UL TYPE=disc>
+<LI><P>Optimismo</P>
+<LI><P>Habilidades para resolver problemas</P>
+<LI><P>Relaciones saludables</P>
+<LI><P>Buen manejo del estres</P>
+<P><IMG SRC="https://storage.googleapis.com/uma-v2_strapi/medium_salud_mental_trabajo_jpg_33e2dc1e26/medium_salud_mental_trabajo_jpg_33e2dc1e26.jpg" WIDTH=30% HEIGHT=30%></P>
+</BODY>
+</HTML>

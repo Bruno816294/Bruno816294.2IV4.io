@@ -1,0 +1,42 @@
+<HTML>
+<HEAD>
+<TITLE>La importancia de la salud mental</TITLE>
+<H1>La importancia de la salud mental</H1>
+</HEAD>
+<BODY BGCOLOR="LIGHTGRAY" TEXT="BLACK">
+<P ALIGN="CENTER">
+<HR COLOR="BLACK">
+<P><A NAME=Factores que afectan la salud mental></P>
+<H2>Factores que afectan la salud mental</H2>
+<P><IMG SRC="https://saludypersona.org/wp-content/uploads/2023/10/los-factores-de-la-salud-mental.jpg" WIDTH=30% HEIGHT=30%></P>
+<P>Como mencionamos en la seccion de <B>Riesgos y señales de una buena o mala salud mental</B> 
+existen diversos factores que pueden afectar nuestro desarrollo de la salud mental.
+A continuacion vamos a explicarles sobre los factores biólogicos, psicológicos, sociales
+y ambientales</P>
+<HR>
+<H3>FACTORES BIOLÓGICOS</H3>
+<UL TYPE=disc>
+<LI><P>Genética</P>
+<LI><P>Desequilibrio químicos en el cerebro</P>
+<LI><P>Enfermedades crónicas</P>
+</UL>
+<H3>FACTORES PSICOLÓGICOS</H3>
+<UL TYPE=disc>
+<LI><P>Manejo de estrés</P>
+<LI><P>Traumas</P>
+<LI><P>Habilidades de afrontamiento</P>
+</UL>
+<H3>FACTORES SOCIALES</H3>
+<UL TYPE=disc>
+<LI><P>Relaciones interpersonales</P>
+<LI><P>Ambiente familiar</P>
+<LI><P>Nivel socioeconómico</P>
+</UL>
+<H3>FACTORES AMBIENTALES</H3>
+<UL TYPE=disc>
+<LI><P>Exposición a violencia</P>
+<LI><P>Acceso a servicios de salud</P>
+<LI><P>Discriminacíon</P>
+<P><IMG SRC="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx9JMOBMh_0lQVXS9WbA2GdgNzss5znN1bSA&s" WIDTH=30% HEIGHT=30%></P>
+</BODY>
+</HTML>

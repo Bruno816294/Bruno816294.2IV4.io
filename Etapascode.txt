@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>Etapas en la adolescencia </title>
+</head>
+<body bgcolor="black" text="white">
+<h1>Etapas en la adolescencia (14-19 años)</h1>
+<P><A NAME=Etapas de la adolescencia de 14 a 19años></P>
+<hr>
+<p><FONT COLOR=BLUE>Temprana(14-16 años):</font></p>
+Cambios fisicos y emocionales, construccion de identidad, influencia de los padres
+<p>Las hormonas sexuales comienzan a estar presentes y por esto se dan cambios físicos: “pegan el estirón”, cambian la voz, aparece vello púbico y en axilas, olor corporal, aumento de sudoración y con esto surge el enemigo de los adolescentes: el acné.</p>
+<P><img src=adolescencia-temprana.jpg alt="adolescencia temprana" weight=30% height=30%></p>
+<p><font color=yellow>Media(16-18 años):</font></p>
+Mayor independencia, exploracion de valores y creencias, toma de desiciones
+<p> Comienzan a evidenciarse cambios a nivel psicológico y en la construcción de su identidad, cómo se ven y cómo quieren que los vean. La independencia de sus padres es casi obligatoria y es la etapa en la que pueden caer fácilmente en situaciones de riesgo.</p>
+<p><img src=images.JPG alt="adolescencia media" width=30% height=30%></p>   
+<p><font color=red>Tardia(18-19 años):</font></p>
+Transicion a la aldutez, establecimiento de metas personales y profesionales
+<p>Comienzan a sentirse más cómodos con su cuerpo, buscando la aceptación para definir así su identidad. Se preocupan cada vez más por su futuro y sus decisiones están en concordancia con ello. Los grupos ya no son lo más importante y comienzan a elegir relaciones individuales o grupos más pequeños.</p>
+<p><img src=cambios-psicologicos-en-adolescencia.jpg alt="adolescencia tardia" width=30% height=30%></p>
+</body>
+</html>

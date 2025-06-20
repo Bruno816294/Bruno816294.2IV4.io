@@ -1,0 +1,68 @@
+<HTML>
+      <HEAD>
+            <TITLE>Transtornos</TITLE>
+      </HEAD>
+      <BODY BACKGROUND="Pintura morada y blanco.jpg">
+
+            <H2>¿Que es un trastorno?</H2>
+            <P>Un trastorno, en un sentido general, se refiere a una alteración o desorden en el funcionamiento normal de algo, ya sea a nivel físico, mental o emocional. En el ámbito de la salud, un trastorno puede ser una condición que afecta la forma en que el cuerpo funciona o que causa síntomas específicos, aunque no necesariamente indique una enfermedad definida. </P>
+            <HR>
+
+            <H2> Haz clic en los hipervinculos para saber mas</H2>
+            <P><A HREF=#Transtornos mentales>Caracteristicas de Transtornos mentales</P> 
+            <P><A HREF=#Transtornos de consumo de sustancias>Aprenda sobre Transtornos de consumo de sustancias</P>     
+            <HR>
+
+            <P><A NAME=Transtornos mentales></P>
+                   <H2>Transtornos mentales</H2>
+                   <HR>
+                   <P><IMG SRC="Transtornos mentales.jpg" ALT="Transtornos mentales" ALIGN=MIDDLE>
+                   Los trastornos mentales, también conocidos como enfermedades mentales, son afecciones que afectan el pensamiento, las emociones, el estado de ánimo y el comportamiento. Estos trastornos pueden ser temporales o crónicos y pueden afectar la capacidad de una persona para relacionarse con los demás y funcionar en su vida diaria. Clasificación:
+                   </p>
+
+                   <P>Existen diferentes tipos de trastornos mentales, incluyendo: 
+                   Trastornos del neurodesarrollo.
+                   Espectro de la esquizofrenia y otros trastornos psicóticos.
+                   Trastorno bipolar y trastornos relacionados.
+                   Trastornos depresivos.
+                   Trastornos de ansiedad.
+                   Trastorno obsesivo compulsivo y trastornos relacionados.
+                   </P>
+
+                   <P>Síntomas:
+                   Los síntomas de los trastornos mentales pueden variar según el tipo de trastorno, pero algunos síntomas comunes incluyen: 
+                   Sentimientos de tristeza, desesperanza o desánimo.
+                   Dificultad para concentrarse.
+                   Cambios en el sueño o el apetito.
+                   Cambios en el estado de ánimo.
+                   Pensamientos o comportamientos obsesivos o compulsivos.
+                   Alucinaciones o delirios.
+                   </P>
+
+                   <P>Causas:
+                   Los trastornos mentales pueden ser causados por una combinación de factores, incluyendo: Factores genéticos, Factores ambientales, Experiencias traumáticas, Desequilibrios químicos en el cerebro. 
+                   Tratamiento:
+                   El tratamiento de los trastornos mentales puede variar según el tipo de trastorno y la gravedad de los síntomas. Los tratamientos comunes incluyen: Terapia psicológica o psicosocial, Terapia farmacológica, Hospitalización. 
+                   </p>
+                   <HR>
+
+           <P><A NAME=Transtornos de consumo de sustancias></P>
+                  <H2>Transtornos de consumo de sustancias</H2>
+                  <HR>
+                  <P><IMG SRC="Transtornos de consumo de sustancia.jpg" ALT="Transtornos de consumo de sustancias" ALIGN=MIDDLE>
+                  El trastorno por consumo de sustancias (TCS) es un padecimiento que se define como el uso problemático de una sustancia como alcohol, drogas o medicamentos recetados. El individuo consume intensamente y a pesar de las consecuencias dañinas. Esto afecta su capacidad de funcionar día a día. A los TCS más graves a veces se les llama adicciones. 
+                  </P>
+                  <P>Los síntomas de un trastorno por consumo de sustancias se agrupan en cuatro categorías:
+
+                  Control afectado:?son las ganas o la fuerte urgencia de consumir sustancias; deseo o intentos fallidos de reducir o controlar el consumo de sustancias.
+                  Problemas sociales:?el consumo de sustancias provoca no completar tareas importantes en el trabajo, la escuela o el hogar; se renuncia a o disminuyen las actividades sociales, laborales o de esparcimiento debido al uso de sustancias.
+                  Consumo de riesgo:?las personas se exponen a entornos riesgosos para conseguir o consumir las sustancias.
+                  Efectos de la droga:?tolerancia (necesidad de consumir cantidades mayores para obtener el mismo efecto); síntomas de abstinencia como escalofríos, calambres, diarrea, pupilas dilatadas, inquietud, ansiedad, náuseas, vómito, insomnio y ganas muy intensas de consumir. Estos síntomas pueden varias según la sustancia.
+                  </p>
+
+                  <P>Existen tratamientos eficaces disponibles para el trastorno por consumo de drogas. Para la mayoría, una combinación de medicamentos con terapia individual o grupal es el más eficaz. El primer paso es reconocer que existe un problema. Luego, un profesional de la salud debe realizar una evaluación formal de los síntomas.
+                  </P>
+                  <HR>
+
+       </BODY>
+</HTML>

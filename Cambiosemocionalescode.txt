@@ -1,0 +1,60 @@
+<HTML>
+<TITLE>La importancia de la salud mental</TITLE>
+<H1>La importancia de la salud mental</H1>
+</HEAD>
+<BODY BGCOLOR="LIGHTGRAY" TEXT="BLACK">
+<P ALIGN="CENTER">
+<HR COLOR="BLACK">
+<P><A NAME=Cambios emocionales en la adolescencia de 14 a 19 años></P>
+<H2>Cambios emocionales en la adolescencia de 14 a 19 años</H2>
+<HR>
+<P><IMG SRC="https://laadolescencia.com/wp-content/uploads/2023/09/emociones-de-los-jovenes.jpg" WIDTH=30% HEIGHT=30% ALIGN=TOP></P>
+<P><B>¿Qué son los cambios emocionales?</P></B>
+<P>Los cambios emocionales son las fluctuaciones en nuestros sentimientos y estados de ánimo. 
+Pueden ser debidos a situaciones externas, como un logro o una pérdida, o a factores internos, 
+como el estrés o la fatiga.</P> 
+<P>Los cambios emocionales durante la adolescencia son 
+frecuentes y pueden ser intensos. Esto se debe a los 
+cambios hormonales que ocurren durante la pubertad.</P>
+<P>Los cambios emocionales son una parte natural de la vida, 
+pero la salud mental nos ayuda a gestionarlos de manera 
+saludable y a mantener una vida plena.</P>
+<P>Desarrollo de habilidades sociales, 
+ampliar sus círculos sociales, desarrollar habilidades interpersonales, 
+desarrollar empatía, resolver conflictos, cooperar.</P>
+<HR>
+<H3>BÚSQUEDA DE IDENTIDAD</H3>
+<UL TYPE=disc>
+<LI><P>Explorar diferentes roles, valores y creencias</P>
+<LI><P>Cuestionarse sobre si mismos y su lugar en el mundo</P>
+<LI><P>Necesidad de autonomia</P>
+</UL>
+<H3>CAMBIOS EN LAS RELACIONES FAMILIARES</H3>
+<UL TYPE=disc>
+<LI><P>Demostrar menos afecto hacia los padres</P>
+<LI><P>Tener conflictos con figuras de autoridad</P>
+<LI><P>Interacciones con la familia oscilan entre la dependencia y la autonomia</P>
+</UL>
+<H3>LOS SENTIMIENTOS MAS COMUNES EN LA ADOLESCENCIA SON:</H3>
+<UL TYPE=disc>
+<LI><P>Cambios de emociones</P>
+<LI><P>Preocupación por la imagen física</P>
+<LI><P>Falta la confiaza</P>
+<Li><P>Conflictos internos</P>
+</UL>
+<HR>
+<P><H3>Los cambios emocionales nos afectan de manera positiva y negativamente</P></H3>
+<H3>Negativamente</H3>
+<P>Los cambios emocionales negativos, como la tristeza, 
+la ira o el miedo, pueden generar estrés, ansiedad o d
+epresión si no se gestionan adecuadamente.</P>
+<H3>POSITIVAMENTE</H3>
+<P>Los cambios emocionales positivos, como la alegría o la satisfacción, 
+pueden mejorar nuestro estado de ánimo, aumentar nuestra autoestima y 
+facilitar la gestión del estrés.</P> 
+<HR>
+<P><FONT SIZE=4> Como tal la salud mental es esencial para nuestra calidad de vida y bienestar. 
+Cuidar nuestra salud mental implica ser conscientes de nuestras emociones, 
+gestionarlas de manera saludable, mantener una red de apoyo social y buscar ayuda profesional cuando sea necesario.</P></FONT>
+</BODY>
+</HTML>

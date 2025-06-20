@@ -1,0 +1,27 @@
+<HTML>
+<HEAD>
+<TITLE>La importancia de la salud mental</TITLE>
+<H1>La importancia de la salud mental</H1>
+</HEAD>
+<BODY BGCOLOR="LIGHTGRAY" TEXT="BLACK">
+<P ALIGN="CENTER">
+<HR COLOR="BLACK">
+<P><A NAME=Entorno en el quese desarrolla></P>
+<H2>Entorno en el que se desarrolla la salud mental</H2>
+<HR>
+<P><IMG SRC="https://universidadloyola.edu.mx/wp-content/uploads/2024/07/Salud-mental-ULDA-1-1024x585.webp" WIDTH=30% HEIGHT=30% ALIGN=BOTTOM></P>
+<H2> En esta seccion checaremos el entorno en el que se desarrolla la salud mental</H2>
+<P><H4>La salud mental de una persona se desarrolla en diferentes contextos, los siguientes entornos que vamos a mencionar son los principales:</H4></P>
+<UL TYPE=disc>
+<LI><P>Familiar: La crianza, el apoyo emocional y la comunicación son fundamentales.</P>
+<LI><P>Escolar: El ambiente académico influte en la autoestima y el desarrollo social.</P>
+<LI><P>Social: Las amistades y el entorno comunitario impactan en el bienestar.</P>
+<LI><P>Digital: El uso de redes sociales y tecnológicos puede influir en la salud mental.</P>
+</UL>
+<P><H3>La salud mental se desarrolla en un entorno complejo y multifacético. La interacción de factores físicos, sociales, económicos, culturales y 
+laborales puede tener un impacto significativo en el bienestar emocional, psicológico y social de una persona. Es importante reconocer 
+la importancia de estos factores y trabajar para crear entornos que promuevan la salud mental y el bienestar de todos.</P></H3>
+<P><IMG SRC="https://talent-match.es/wp-content/uploads/2022/11/blogfoto-25.png"WIDTH=50% HEIGHT=50%></P>
+</P>
+</BODY>
+</HTML>

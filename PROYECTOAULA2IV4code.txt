@@ -1,0 +1,72 @@
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>La importancia de la salud mental</title>
+    <style>
+        body {
+            background-color: lightgray;
+            color: black;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            text-align: center;
+            margin-top: 20px;
+        }
+        hr {
+            border: 1px solid black;
+        }
+        ul {
+            list-style-type: disc;
+            margin-left: 40px;
+        }
+        p {
+            margin: 15px;
+        }
+        .center-text {
+            text-align: center;
+        }
+        .highlight {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>La importancia de la salud mental</h1>
+    
+    <p class="center-text"><hr></p>
+    
+    <h2>¿Qué es la salud mental?</h2>
+    <p>La <span class="highlight">salud mental</span> se refiere al estado emocional, psicológico y social de una persona.</p>
+    <p>Involucra el bienestar emocional, la capacidad de manejar el estrés, las relaciones interpersonales saludables y una mente equilibrada.</p>
+    <p>La <span class="highlight">salud mental</span> es esencial para el funcionamiento diario, la toma de decisiones y la calidad de vida. Incluye la gestión efectiva de emociones, el afrontamiento de desafíos y el mantenimiento de relaciones positivas.</p>
+    <p>La conciencia, el apoyo social y el acceso a servicios de salud mental son cruciales para preservar y mejorar la salud individual y comunitaria.</p>
+    
+    <p class="center-text"><hr></p>
+    
+    <h2>ÍNDICE</h2>
+    <h3 class="center-text"><span class="highlight">En los siguientes enlaces podrás descubrir más sobre el tema de la salud mental</span></h3>
+    <ul>
+        <li><p><a href="Entorno.html#Entornoenelquesedesarrolla">Entorno en el que se desarrolla</a></p></li>
+        <li><p><a href="Riesgosyseñales.html#Riesgosyseñalesdeunabuenaomalasaludmental">Riesgos y señales de una buena o mala salud mental</a></p></li>
+        <li><p><a href="Factoresqueafectan.html#Factoresqueafectanlasaludmental">Factores que afectan la salud mental</a></p></li>
+        <li><p><a href="Transtornos.html#transtornos">Trastornos de la salud mental</a></p></li>
+        <li><p><a href="Etapas.html#Etapasdelaadolescenciade14a19años">Etapas de la adolescencia de 14 a 19 años</a></p></li>
+        <li><p><a href="Cambiosemocionales.html#Cambiosemocionales">Cambios emocionales en la adolescencia (14-19) años</a></p></li>
+    </ul>
+
+    <p class="center-text"><hr></p>
+
+    <h2>Fuentes de donde se obtuvo la información:</h2>
+    <ul>
+        <li><p>Tema: Definición de salud mental, factores que la afectan, trastornos comunes. <a href="https://www.who.int/es" target="_blank">https://www.who.int/es</a></p></li>
+        <li><p>Tema: Trastornos mentales en adolescentes, señales de advertencia, tratamiento. <a href="https://www.nimh.nih.gov" target="_blank">https://www.nimh.nih.gov</a></p></li>
+        <li><p>Tema: Bienestar emocional de adolescentes, factores sociales y educativos. <a href="https://www.unicef.org/es" target="_blank">https://www.unicef.org/es</a></p></li>
+        <li><p>Tema: Estrategias para el cuidado de la salud mental, programas para jóvenes. <a href="https://www.gob.mx/salud" target="_blank">https://www.gob.mx/salud</a></p></li>
+        <li><p>Tema: Cambios emocionales en la adolescencia, desarrollo psicológico. <a href="https://psicologiaymente.com" target="_blank">https://psicologiaymente.com</a></p></li>
+        <li><p>Tema: Factores psicológicos, entorno y salud emocional. <a href="https://www.apa.org" target="_blank">https://www.apa.org</a></p></li>
+    </ul>
+</body>
+</html>
